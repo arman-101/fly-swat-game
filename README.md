@@ -10,6 +10,6 @@ MMU Year 1 Assignmnet in Processing
 As advertised, there are flies and you have to swat them, complicated I know...
 
 ### How to Run
-- Git clone / download the zip file
-- Download the Processing IDE - https://processing.org/
-- Open the extracted folder with the IDE and Run!
+1. Git clone / download the zip file
+2. Download the Processing IDE - https://processing.org/
+3. Open the extracted folder with the IDE and Run!
